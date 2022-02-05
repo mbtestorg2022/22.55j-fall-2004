@@ -16,30 +16,321 @@ Löbrich, M., P. K. Cooper, and B. Rydberg. "Non-random Distribution of DNA Doub
 
 The chapters in the table below are from: Hall, Eric J. _Radiobiology for the Radiologist_. 5th ed. Philadelphia: Lippincott Williams & Wilkins, 2000. ISBN: 9780781726498.
 
-| SES # | TOPICS | READINGS |
-| --- | --- | --- |
-| 1 | Course Intro/Cells and Tissues Overview | &nbsp; |
-| 2 | Radiation Interactions | Chapter 1 |
-| 3 | Radiation Interactions (cont.) | &nbsp; |
-| 4 | Radiation Chemistry/LET/Tracks | Chapter 7 |
-| 5 | Effects on Chromosomes/DNA | Chapter 2 |
-| 6 | Dose Response in Vitro: Cell Survival Curves | Chapter 3 |
-| 7 | RBE/Clustered Damage | &nbsp; |
-| 8 | Protons and Alphas of same LET | &nbsp; |
-| 9 | Dose Response in Vivo | Chapters 18 and 20 |
-| 10 | Chemical Modification of Radiation Response | Chapters 6, 9 and 25 |
-| 11 | Cell, Tissue and Tumor Kinetics | Chapters 4 and 5 |
-| 12 | Exam 1 | &nbsp; |
-| 13 | Radiation Therapy: Tumor Radiobiology | Chapter 21 |
-| 14 | Radiation Therapy (contd.): Fractionation | Chapter 19 |
-| 15 | Acute Effects of Whole Body Exposure | Chapter 8 |
-| 16 | Late Effects: Chronic Exposure/Low Doses | Chapters 10, 11 and 12 |
-| 17 | Radiation Protection/Background Radiation/Radon | Chapter 15 |
-| 18 | Alpha Particles/Bystander Effect | &nbsp; |
-| 19 | Microbeams | &nbsp; |
-| 20 | RBE of Diagnostic X Rays | &nbsp; |
-| 21 | BNCT/Other Modalities | Chapters 24, 27 and 28 |
-| 22 | Space | &nbsp; |
-| 23 | Space (cont.) | &nbsp; |
-| 24 | Exam 2 | &nbsp; |
-| 25 | Oral Term Paper Presentations |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+READINGS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Course Intro/Cells and Tissues Overview
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Radiation Interactions
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 1
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Radiation Interactions (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Radiation Chemistry/LET/Tracks
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 7
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Effects on Chromosomes/DNA
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 2
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Dose Response in Vitro: Cell Survival Curves
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 3
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+RBE/Clustered Damage
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Protons and Alphas of same LET
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Dose Response in Vivo
+{{< tdclose >}}
+{{< tdopen >}}
+Chapters 18 and 20
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Chemical Modification of Radiation Response
+{{< tdclose >}}
+{{< tdopen >}}
+Chapters 6, 9 and 25
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Cell, Tissue and Tumor Kinetics
+{{< tdclose >}}
+{{< tdopen >}}
+Chapters 4 and 5
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Exam 1
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Radiation Therapy: Tumor Radiobiology
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 21
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Radiation Therapy (contd.): Fractionation
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 19
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Acute Effects of Whole Body Exposure
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 8
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Late Effects: Chronic Exposure/Low Doses
+{{< tdclose >}}
+{{< tdopen >}}
+Chapters 10, 11 and 12
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Radiation Protection/Background Radiation/Radon
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 15
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Alpha Particles/Bystander Effect
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Microbeams
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+RBE of Diagnostic X Rays
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+BNCT/Other Modalities
+{{< tdclose >}}
+{{< tdopen >}}
+Chapters 24, 27 and 28
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Space
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Space (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Exam 2
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Oral Term Paper Presentations
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
